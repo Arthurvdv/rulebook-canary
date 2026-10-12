@@ -1,7 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ALCops/rulebook-engine/v1/schemas/rulebook-settings.schema.json",
-  "templateUrl": "https://github.com/ALCops/rulebook@main",
-  "templateSha": "",
+  "$schema": "https://raw.githubusercontent.com/ALCops/rulebook-engine/main/schemas/rulebook-settings.schema.json",
+  "templateUrl": "https://github.com/ALCops/rulebook@preview",
+  "templateSha": "aab0e07a39baa89fa89798210d84cdbbfc1ccc17",
   "baseUrl": "https://arthurvdv.github.io/rulebook-canary",
   "publish": { "target": "pages" },
   "twins": "both",
